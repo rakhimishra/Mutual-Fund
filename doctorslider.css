@@ -1,0 +1,31 @@
+.im{
+    border-radius: 10%;
+    height: 200px;
+    width:cover;
+    border: 1px solid rgb(132, 163, 156);
+    
+   
+}
+.item{
+    border: 1px solid rgb(132, 163, 156);
+    padding:5px;
+    height: 450px;
+    overflow:hidden;
+    margin: 8px;
+    background-color: white;
+}
+.id2{
+    text-align: center;
+     color:rgb(6, 46, 6);
+      font:bolder 25px ;
+       font-weight: 900;
+
+}
+.id3{
+    color:rgb(9, 170, 170);
+    text-align: center;
+}
+.card{
+    margin:30px;
+    margin-top: 20px;
+}

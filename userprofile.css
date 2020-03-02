@@ -1,0 +1,22 @@
+table{
+	width:95%;
+	background-color: #e3f6f5;
+	margin-right: auto;
+	margin-left: auto;
+	empty-cells: show;/*hide*/
+	table-layout: auto;/*fixed = in this fetcher containt can go outside table becasue size is fixed*/
+
+
+}
+td,th{
+	padding: 8px;
+	text-align: left;
+	color: black;
+	opacity: 0.5;
+
+}
+caption{
+	color: #2d132c;
+	font: bold 30px serif;
+
+}

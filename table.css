@@ -1,0 +1,17 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    width: 95%;
+    background-image:linear-gradient(white,lightcyan);
+    border:1px solid lightcyan;
+    box-sizing: border-box;
+    opacity:0.4;
+}
+th,td,tr{
+    padding: 10px;
+    text-align: left;
+    font-weight: 600;
+    opacity:0.8;
+
+}
