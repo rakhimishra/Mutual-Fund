@@ -99,7 +99,7 @@ a{
                            <div class="id2">Computer Science<br></></div>
                            <p class="id3">Hod/Dr. S.Karthikeyan </p>
                             <p style="padding-left:10px;"> <span style="font-weight: bold;">Loerm Ipsum</span> The department of Computer Science was established in the year 1987.
-</p>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -309,7 +309,7 @@ autoplayHoverPause:false
     </ul>
   </div>  
 </nav>
-<!--
+
 <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-3">
@@ -335,7 +335,7 @@ autoplayHoverPause:false
       </ul>
       <hr class="d-sm-none">
     </div>
--->
+
     <div class="col-sm-8 container" style="margin-top: 80px; margin-bottom:80px;">
         
         <div class="card-deck">
@@ -404,8 +404,8 @@ autoplayHoverPause:false
 </div>
 <!--
 <div class="jumbotron text-center" style="margin-bottom:20px">
-  <p>Footer</p>-->
-</div>
+  <p>Footer</p>
+</div>-->
 
 </hr>
 
